@@ -20,4 +20,4 @@ Anyone with a W3C account (including non-Members) can participate in any session
 
 # Who can propose a session
 
-See [Breakouts Day 2025 policies](https://github.com/w3c/breakouts-day-2025/wiki/Policies)
+See [Breakouts Day 2025 policies](https://github.com/w3c/breakouts-day-2025/wiki/Policies) for [who can propose a session](https://github.com/w3c/breakouts-day-2025/wiki/Policies#who-can-propose-a-session)
