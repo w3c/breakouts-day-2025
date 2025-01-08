@@ -1,6 +1,6 @@
 # W3C Breakouts Day 2025
 
-This repo is for the W3C community to propose and organize breakout sessions for [W3C Breakouts Day 2024](https://www.w3.org/2025/03/breakouts-day-2025/). Sessions will take place on **Wednesday, 26 March 2024 (UTC)**. A few days before the event we will publish the schedule of breakout sessions.
+This repo is for the W3C community to propose and organize breakout sessions for [W3C Breakouts Day 2025](https://www.w3.org/2025/03/breakouts-day-2025/). Sessions will take place on **Wednesday, 26 March 2024 (UTC)**. A few days before the event we will publish the schedule of breakout sessions.
 
 * [Calendar up to breakouts day](https://github.com/w3c/breakouts-day-2025/wiki/Meeting-Planner-Resources) including deadline for proposals (12 March).
 * [Time slots](https://github.com/w3c/breakouts-day-2025/wiki/Session-Time-Slots)
