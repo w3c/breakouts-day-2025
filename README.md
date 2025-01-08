@@ -20,9 +20,4 @@ Anyone with a W3C account (including non-Members) can participate in any session
 
 # Who can propose a session
 
-* Participants in a W3C Working, Interest, Business or Community Group
-* W3C Member Advisory Committee Representatives
-* Participants on the Board of Directors, Advisory Board and the Technical Architecture Group
-* Employees of a W3C member organization
-* W3C Evangelists
-* W3C staff or W3C Chapters staff
+See [Breakouts Day 2025 policies](https://github.com/w3c/breakouts-day-2025/wiki/Policies)
