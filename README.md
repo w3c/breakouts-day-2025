@@ -14,7 +14,7 @@ This repo is for the W3C community to propose and organize breakout sessions for
 
 As we did in 2024, the W3C is organizing a remote breakout session event called W3C Breakouts Day 2025. The goal of the day is to foster discussion among the full W3C community about new or existing topics.
 
-# Participationa
+# Participation
 
 Anyone with a W3C account (including non-Members) can participate in any session. No fee or registration is required. Members may invite guests to participate.
 
